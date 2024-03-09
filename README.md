@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bruce-D-Hopkins-Jr
-- 👀 I’m interested in software development for the entertainment industry whether it be sports, video games, or movies!
-- 🌱 I’m currently learning C# and Javascript.
-- 💞️ I’m looking to collaborate on any type of mobile game or sports app.
+- 👀 I’m interested in Cloud and Game Development!
+- 🌱 I’m currently learning C#, Javascript, and Python.
+- 💞️ I’m looking to collaborate on any type of mobile game or cloud tool or application.
 - 📫 How to reach me: brucedenhopk@gmail.com
 
 <!---

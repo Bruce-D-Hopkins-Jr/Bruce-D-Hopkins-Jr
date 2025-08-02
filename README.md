@@ -15,7 +15,6 @@ Hi, I’m Bruce — a software developer focused on building games and tools tha
 
 - **Game Dev:** Unity 6, C#, Cinemachine, ScriptableObjects, Animation, Input System
 - **Web Dev:** React, Redux, Node.js, Express, PostgreSQL, Python Flask
-- **Automation:** .NET 9.0, WinForms, Excel Interop, PDF Parsing, TDD
 - **Certifications:** Azure (AI Dev, Admin, Fundamentals), CompTIA (A+, Net+, Sec+, ITF+)
 
 ---
@@ -23,19 +22,19 @@ Hi, I’m Bruce — a software developer focused on building games and tools tha
 ## Projects
 
 ### 🎴 Slayerz & Co.  
-A tactical card strategy game built in Unity. Features a unique phase system (Draw → Play → Slay → Monster), evolving heroes, and drag-and-drop card targeting.  
+A tactical card strategy game built in Unity. Features a unique phase system (Draw → Play → Slay → Monster), evolving monsters, and drag-and-drop card targeting.  
 *Status: In Development*
 
 ### 📄 Game Dev Doc Builder  
 Python Flask + React app that turns structured form input into downloadable game design docs (PDF/DOCX).  
-*Status: MVP Complete*
+*Status: In Development*
 
 ---
 
 ## Contact
 
-- 📫 [bruce@piedmontinteractive.com](mailto:bruce@piedmontinteractive.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/brucehopkinsdev)
+- 📫 [brucedenhopk@gmail.com](mailto:brucedenhopk@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruce-hopkins-jr)
 
 ---
 

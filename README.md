@@ -33,8 +33,7 @@ Python Flask + React app that turns structured form input into downloadable game
 
 ## Contact
 
-- 📫 [brucedenhopk@gmail.com](mailto:brucedenhopk@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruce-hopkins-jr)
+- 📫 [brucedenhopk@outlook.com](mailto:brucedenhopk@outlook.com)
 
 ---
 

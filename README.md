@@ -21,8 +21,8 @@ Hi, I’m Bruce — a software developer focused on building games and tools tha
 
 ## Projects
 
-### 🎴 Slayerz & Co.  
-A tactical card strategy game built in Unity. Features a unique phase system (Draw → Play → Slay → Monster), evolving monsters, and drag-and-drop card targeting.  
+### 🎴 Adventurers Guild Simulator  
+A rougue-like simulation strategy game built in Unity. Features a unique reputation system, quests system, and adventurer recruitment system.  
 *Status: In Development*
 
 ### 📄 Game Dev Doc Builder  
